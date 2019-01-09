@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CountingRules.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IsAverageLengthofWordsStartingwithLetterApplicable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AverageLengthofWordsStartingwithLetterResultFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">average_length_of_words_starting_with_a</Value>
+    </Setting>
+    <Setting Name="IsCountCharsinWordsStartingWithLetterApplicable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CountCharsinWordsStartingWithLetterResultFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">count_of_e_in_words_starting_with_b</Value>
+    </Setting>
+    <Setting Name="IsLongestWordStartingwithLetterApplicable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LongestWordStartingwithLetterResultFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">longest_words_starting_with_abc</Value>
+    </Setting>
+    <Setting Name="IsCountSequenceOfWordsStartingWithLettersApplicable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CountSequenceOfWordsStartingWithLettersResultFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">count_of_sequence_of_words_starting_withs_c_and_a</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
